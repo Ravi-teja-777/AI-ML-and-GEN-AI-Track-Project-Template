@@ -1,21 +1,26 @@
-**AI-ML-and-GEN-AI-Track-Project-Template**
+# AI-ML-and-GEN-AI-Track-Project-Template
 
-**Repository Structure**
+This repository provides a structured template for an AI, ML, or Generative AI project journey.
 
-1.Brainstorming & Ideation
+## Current Project Concept
+A lightweight AI Study Companion web app that helps learners break study goals into manageable tasks and track progress.
 
-2.Requirement Analysis
+## Repository Structure
+1. Brainstorming & Ideation
+2. Requirement Analysis
+3. Project Design Phase
+4. Project Planning Phase
+5. Project Development Phase
+6. Project Testing
+7. Project Documentation
+8. Project Demonstration
 
-3.Project Design Phase
+## Getting Started
+Run the starter application with:
 
-4.Project Planning Phase
+```bash
+npm start
+```
 
-5.Project Development Phase
-
-6.Project Testing
-
-7.Project Documentation
-
-8.Project Demonstration
-
-Replace the placeholder files with your team's project deliverables.
+## Next Step
+Document requirements and begin implementing the first study-planning features.

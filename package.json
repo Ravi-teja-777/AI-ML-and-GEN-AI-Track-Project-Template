@@ -1,0 +1,9 @@
+{
+  "name": "ai-ml-and-gen-ai-track-project-template",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js",
+    "start:4000": "node index.js 4000"
+  }
+}
